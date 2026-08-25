@@ -1,7 +1,7 @@
 # Hollywood Studios Secure AI and Chain of Title
 
   **Company / Org:** Chambers Capital Ventures  
-  **Challenge Advisor:** Maher Hasan, [mmmaherhasan@gmail.com](mailto:mmmaherhasan@gmail.com)  
+  **Challenge Advisor:** Maher Hasan, [m@hollywoodstudios.ai](mailto:m@hollywoodstudios.ai)  
   **Challenge Advisor:** Sir Steven Saxton, [s@hollywoodstudios.ai](mailto:s@hollywoodstudios.ai)  
   **AI Studio Coach:** Deanna DiMonte,
   [deanna.dimonte@breakthroughtech.org](mailto:deanna.dimonte@breakthroughtech.org)  
