@@ -9,10 +9,8 @@
 
   ---
 
-  ## 🏢 About Chambers Capital Ventures
-  Chambers Capital Ventures is an investment and development firm operating at the intersection of media, finance, and
-  advanced technology. The team focuses on optimizing creative workflows and protecting intellectual property within
-  the entertainment industry through the implementation of secure AI governance systems.
+  ## 🏢 About Hollywood Studios
+  Hollywood Studios is building a secure AI platform for the creative economy that protects intellectual property, establishes provenance and chain of title, enables trusted collaboration, and provides AI-powered tools and predictive intelligence to help move creative projects from development through financing, production, marketing, and distribution.
 
   ---
 
