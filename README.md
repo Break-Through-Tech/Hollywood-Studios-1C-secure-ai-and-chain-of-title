@@ -12,7 +12,7 @@
 |------------------|---------------|--------------------------------------------------------------------------|
 | Betul Gurkan     | @taylornguyen | Data exploration, visualization, overall project coordination            |
 | Sreya Gudipati   | @SSriya17     | Data collection, exploratory data analysis (EDA), dataset documentation  |
-| Srijana Shretha  | @aminahassan  | Data preprocessing, feature engineering, data validation                 |
+| Srijana Shretha  | @Srijana-gits  | Data preprocessing, feature engineering, data validation                 |
 | Zaer Bin Zaqy    | @zayeihr      | Model selection, hyperparameter tuning, model training and optimization  |
 
 ---
